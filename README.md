@@ -23,7 +23,8 @@ As both a teacher and technology director, I noticed gaps in digital instruction
 
 ## 📂 Contents
 
-- `K8_Tech_Standards.pdf` – full standards document docs/myfile.txt
+- `K8_Tech_Standards.pdf` – [Schleis Technology Standards by Grade Level - Technology Goals by Grade Level](https://github.com/johnschleisCOG/johnschleisCOG/blob/main/Schleis%20Technology%20Standards%20by%20Grade%20Level%20-%20Technology%20Goals%20by%20Grade%20Level.pdf)
+
 
 
 
