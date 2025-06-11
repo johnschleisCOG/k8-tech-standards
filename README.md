@@ -23,8 +23,9 @@ As both a teacher and technology director, I noticed gaps in digital instruction
 
 ## 📂 Contents
 
-- `K8_Tech_Standards.pdf` – full standards document (upload your PDF here)
-- `Grade_Level_Maps/` – optional: folders with breakdowns by grade
+- `K8_Tech_Standards.pdf` – full standards document docs/myfile.txt
+
+
 
 ---
 
